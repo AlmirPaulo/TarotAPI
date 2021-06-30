@@ -6,7 +6,6 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s:%(module)s:%(leveln
 
 app = Flask(__name__)
 api = Blueprint('api', __name__)
-app.register_blueprint(api, url_prefix='/api')
 
 @api.route('/')
 def ping():
@@ -28,6 +27,7 @@ def card(id):
     return 'Card not found.'
 
 
+app.register_blueprint(api, url_prefix='/api')
 
 
 if __name__ == '__main__':
