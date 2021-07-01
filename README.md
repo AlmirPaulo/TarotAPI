@@ -1,21 +1,25 @@
-# TarotAPI
+# Tarotv1
 *A project by [Almir Paulo](https://almirpaulo.github.io/)*
 
 A RESTFul API to read tarot cards made in Python with Flask. 
 
 <!--## Endpoints
 
-**Root endpoint:** Show all cards data. 
+**Root Endpoint:** Show all cards data. 
 
-    .../api/
+    .../v1/
 
-**Read endpoint:** Draft the determined number of cards randomly.
+**Whole Deck Reading Endpoint:** Draft the determined number of cards randomly, considering the whole deck.
 
-    .../api/read/<number>
+    .../v1/read_whole/<number>
 
-**Card endpoint:** Show the chosen card (by the id. Which, in the case of Major Arcana, matches the card number).
+**Major Arcana Reading Endpoint:** Draft the determined number of cards randomly, considering only the major arcana.
+ 
+    .../v1/read_maj/<number>
 
-    .../api/card/<id> 
+**Minor Arcana Reading Endpoint:** Draft the determined number of cards randomly, considering only the minor arcana.
+
+    .../v1/read_min/<number>
 
 ## Technologies
 
