@@ -1,7 +1,6 @@
 # TarotAPI v1
 *A project by [Almir Paulo](https://almirpaulo.github.io/)*
 
-![API Status](https://img.shields.io/website?down_color=red&down_message=Down%2C%20by%20now...&style=for-the-badge&up_color=green&up_message=UP%21&url=https%3A%2F%2Ftarotapi.almirpaulo.repl.co%2Fv1)
 
 A RESTFul API to read tarot cards made in Python with FastAPI. 
 
