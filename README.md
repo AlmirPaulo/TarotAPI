@@ -42,5 +42,5 @@ First Release
 * Refactoring to FastAPI
 * Swagger documentation
 
-### 1.0.1 - August 1st  
+### 1.0.1 - August 1st 2021  
 CORS enabled
