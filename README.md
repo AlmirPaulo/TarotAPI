@@ -30,7 +30,7 @@ Please open an Issue.
 ## Contribute
 If this project have helped you in some way to earn some money and you're wondering how to say "thank you", consider to buy me coffee! I would appreciate very much!
  
-(Button here soon!)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C26878E)
 
 ## Releases
 
