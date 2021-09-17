@@ -10,7 +10,7 @@ The API can be accessed at:
 
 ## Documentation
 
-    https://tarotapi.almirpaulo.repl.co/
+    https://tarotapi.almirpaulo.repl.co/docs
  
 
 ## Technologies
