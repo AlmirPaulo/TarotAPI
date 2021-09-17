@@ -4,9 +4,9 @@
 
 A RESTFul API to read tarot cards made in Python with FastAPI. 
 
-The API can be accessed at:  
+The API can be accessed at: 
     
-     https://TarotAPI.almirpaulo.repl.co/v1
+     https://TarotAPI.almirpaulo.repl.co/
 
 ## Documentation
 
@@ -28,7 +28,7 @@ Please open an Issue.
 * Include other Images from other tarot decks like Marseilles, etc. 
 
 ## Contribute
-If this project have helped you in some way to earn some money and you're wondering how to say "thank you", consider to "buy me coffee"! I would appreciate very much!
+If this project have helped you in some way to earn some money, consider to "buy me coffee"! I would appreciate very much!
  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C26878E)
 
