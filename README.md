@@ -44,3 +44,6 @@ First Release
 
 ### 1.0.1 - August 1st 2021  
 CORS enabled
+
+### 1.1.0 - September 17 2021
+Add "questions" to API data.
