@@ -1,4 +1,4 @@
-# TarotAPI v1
+# TarotAPI 
 *A project by [Almir Paulo](https://almirpaulo.github.io/)*
 
 
@@ -6,11 +6,11 @@ A RESTFul API to read tarot cards made in Python with FastAPI.
 
 The API can be accessed at: 
     
-     https://TarotAPI.almirpaulo.repl.co/
+    https://tarotapi.almirpaulo.repl.co/
 
 ## Documentation
 
-     https://TarotAPI.almirpaulo.repl.co/docs
+    https://tarotapi.almirpaulo.repl.co/
  
 
 ## Technologies
